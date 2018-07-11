@@ -1,0 +1,161 @@
+.neymar {
+  background: url(image.png) no-repeat;
+}
+
+.neymar__font {
+  background-size: contain;
+  height: 300px;
+  width: 100%;
+}
+
+.neymar__input {
+  width: 200px;
+  height: 10px;
+  font-size: 20px;
+  padding: 10px;
+}
+
+.neymar__show {
+  height: 100px;
+  width: 100%;
+  display: flex;
+  flex-flow: wrap;
+}
+
+div[class^='neymar__letter'], div[class*=' neymar__letter'] {
+  height: 200px;
+}
+
+.neymar__letter-A {
+  background-position: -205px -130px;
+  width: 200px;
+}
+
+.neymar__letter-B {
+  background-position: -393px -143px;
+  width: 130px;
+}
+
+.neymar__letter-C {
+  background-position: -586px -147px;
+  width: 170px;
+}
+
+.neymar__letter-D {
+  background-position: -791px -138px;
+  width: 170px;
+}
+
+.neymar__letter-E {
+  background-position: -990px -135px;
+  width: 170px;
+}
+
+.neymar__letter-F {
+  background-position: -1154px -144px;
+  width: 170px;
+}
+
+.neymar__letter-G {
+  background-position: -1335px -142px;
+  width: 150px;
+}
+
+.neymar__letter-H {
+  background-position: -1535px -148px;
+  width: 170px;
+}
+
+.neymar__letter-I {
+  background-position: -235px -341px;
+  width: 110px;
+}
+
+.neymar__letter-J {
+  background-position: -430px -336px;
+  width: 110px;
+}
+
+.neymar__letter-K {
+  background-position: -608px -345px;
+  width: 110px;
+}
+
+.neymar__letter-L {
+  background-position: -812px -338px;
+  width: 110px;
+}
+
+.neymar__letter-M {
+  background-position: -990px -337px;
+  width: 160px;
+}
+
+.neymar__letter-N {
+  background-position: -1165px -347px;
+  width: 190px;
+}
+
+.neymar__letter-O {
+  background-position: -1360px -347px;
+  width: 140px;
+}
+
+.neymar__letter-P {
+  background-position: -1562px -341px;
+  width: 110px;
+}
+
+.neymar__letter-Q {
+  background-position: -229px -555px;
+  width: 190px;
+}
+
+.neymar__letter-R {
+  background-position: -448px -532px;
+  width: 130px;
+}
+
+.neymar__letter-S {
+  background-position: -603px -534px;
+  width: 130px;
+}
+
+.neymar__letter-T {
+  background-position: -757px -541px;
+  width: 180px;
+}
+
+.neymar__letter-U {
+  background-position: -962px -547px;
+  width: 170px;
+}
+.neymar__letter-V {
+  background-position: -1146px -534px;
+  width: 190px;
+}
+
+.neymar__letter-W {
+  background-position: -1350px -552px;
+  width: 160px;
+}
+
+.neymar__letter-X {
+  background-position: -1521px -537px;
+  width: 160px;
+}
+
+.neymar__letter-Y {
+  background-position: -250px -763px;
+  width: 120px;
+}
+
+.neymar__letter-Z {
+  background-position: -474px -767px;
+  width: 120px;
+}
+
+.neymar__letter-space {
+  background-position: -11px -89px;
+  width: 200px;
+}
